@@ -1,17 +1,17 @@
-      <!-- Footer -->
-      <div class="footer" >
+<!-- Footer -->
+<div class="footer" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                 <div class="d-flex justify-content-center">
-                <img class="d-block w-100" src=" <?=base_url('assets\img\logo\logo.jpeg');?>" alt="Third slide" id="logo-footer">
+                <img class="d-block w-100" src="<?=base_url('assets/img/logo/logo.jpeg');?>" alt="Third slide" id="logo-footer">
                 
                 </div>
-                <h5 id="footer">Follow Me</h5>
-               
+                <h5 id="footer" style="color: #eac5b1;">Follow Me</h5>
+
                     <div class="social-container">
                         <span class="fa-stack">
-                            <a href="<?=base_url('assets/img/icon/f.png');?>">
+                            <a href="assets/img/icon/f.png">
                             <a href="https://www.facebook.com/Shirahomeliving/" target="_blank"><i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
